@@ -56,7 +56,7 @@ For urgent support, reach us directly at [inflamed.host](https://inflamed.host).
 
 ## Security issues
 
-Please don't report security vulnerabilities here — contact us privately through [inflamed.host](https://inflamed.host).
+Please don't report security vulnerabilities here — contact us privately at [support@inflamed.host](mailto:support@inflamed.host).
 
 ---
 
