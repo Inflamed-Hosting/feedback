@@ -1,74 +1,63 @@
-# 🔥 Inflamed Hosting — Feedback & Bug Reports
+# Inflamed Hosting — Feedback & Bug Reports
 
-Welcome to the official feedback hub for **[Inflamed Hosting](https://inflamed.host)** — premium managed game server hosting for FiveM, RedM, Minecraft, Arma Reforger, and Hytale.
-
-This is the place to:
-- 🐛 **Report bugs** with any of our products or the control panel (PyroNest)
-- 💡 **Request new features** you'd like to see
-- 💬 **Start a discussion** about ideas, suggestions, or questions
+Bug reports and feature requests for Inflamed Hosting products live here. If something doesn't fit either of those, the [Discussions](https://github.com/Inflamed-Hosting/feedback/discussions) tab is the place for it.
 
 ---
 
-## 🐛 Reporting a Bug
+## Reporting a bug
 
-Found something broken? Please use the **Bug Report** issue template and include:
+Use the Bug Report template. Include as much as you can:
 
-- Which product is affected (FiveM, RedM, Minecraft, Arma Reforger, Hytale, PyroNest, billing, etc.)
-- Your server region (Helsinki / Virginia)
-- Steps to reproduce the issue
+- Which product (FiveM, RedM, Minecraft, Arma Reforger, Hytale, PyroNest, billing, etc.)
+- Your server region (Helsinki or Vint Hill)
+- Steps to reproduce
 - What you expected vs. what actually happened
-- Any relevant screenshots or error messages
+- Screenshots or error output if you have them
 
-👉 [**Open a Bug Report**](https://github.com/Inflamed-Hosting/feedback/issues/new?template=bug_report.md)
-
----
-
-## 💡 Requesting a Feature
-
-Have an idea to make Inflamed Hosting better? Use the **Feature Request** template and tell us:
-
-- Which product or area the feature applies to
-- The problem you're trying to solve
-- Your proposed solution (even rough ideas are welcome)
-- Why this would benefit the community
-
-👉 [**Submit a Feature Request**](https://github.com/Inflamed-Hosting/feedback/issues/new?template=feature_request.md)
+[Open a bug report →](https://github.com/Inflamed-Hosting/feedback/issues/new?template=bug_report.md)
 
 ---
 
-## 💬 Discussions
+## Requesting a feature
 
-For general ideas, questions, or community discussion, use the [Discussions](https://github.com/Inflamed-Hosting/feedback/discussions) tab.
+Use the Feature Request template. Tell us what you're trying to do and why the current setup doesn't cover it. Half-formed ideas are welcome.
 
----
-
-## 📋 Products
-
-| Product | Description |
-|---------|-------------|
-| **FiveM** | GTA V multiplayer server hosting |
-| **RedM** | Red Dead Redemption 2 multiplayer hosting |
-| **Minecraft** | Java & Bedrock edition server hosting |
-| **Arma Reforger** | Bohemia Interactive milsim hosting |
-| **Hytale** | Hytale server hosting (coming soon) |
-| **PyroNest** | Our custom game server control panel |
-| **Billing / Account** | WHMCS client portal and account issues |
+[Submit a feature request →](https://github.com/Inflamed-Hosting/feedback/issues/new?template=feature_request.md)
 
 ---
 
-## ⚠️ Before You Submit
+## Discussions
 
-- **Search first** — your issue may already be reported.
-- **One issue per report** — don't bundle multiple bugs together.
-- **Be specific** — vague reports are hard to act on.
-- **For urgent support**, contact us at [inflamed.host](https://inflamed.host) or via our support channels.
+Questions, feedback, or anything else that isn't a bug or feature request — use the [Discussions](https://github.com/Inflamed-Hosting/feedback/discussions) tab.
 
 ---
 
-## 🔒 Security Issues
+## Products
 
-Please **do not** report security vulnerabilities here. Contact us privately at [inflamed.host](https://inflamed.host).
+| Product | What it is |
+|---------|------------|
+| FiveM | GTA V multiplayer hosting |
+| RedM | Red Dead Redemption 2 multiplayer hosting |
+| Minecraft | Java & Bedrock hosting |
+| Arma Reforger | Bohemia milsim hosting |
+| Hytale | Coming soon |
+| PyroNest | Our control panel |
+| Billing / Account | WHMCS portal and account issues |
 
 ---
 
-*Inflamed Hosting — Premium game server hosting in Helsinki, FI and Ashburn, VA.*
+## Before you submit
+
+Search the open issues first. If yours is already there, add a comment instead of opening a duplicate. One issue per report, and the more specific the better.
+
+For urgent support, reach us directly at [inflamed.host](https://inflamed.host).
+
+---
+
+## Security issues
+
+Please don't report security vulnerabilities here — contact us privately through [inflamed.host](https://inflamed.host).
+
+---
+
+*Inflamed Hosting — Helsinki, FI and Vint Hill, VA.*
